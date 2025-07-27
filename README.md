@@ -29,6 +29,6 @@ The chatbot uses a decision-tree flow to guide users through:
 ## 🧠 Author
 
 **Nokuthula Ngcongo**  
-AI Fundamentals Candidate Through CAPCITI
+AI Fundamentals Candidate Through CAPACITI
 
 ---
